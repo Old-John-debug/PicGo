@@ -1,0 +1,2 @@
+# PicGo
+obsidian图床
